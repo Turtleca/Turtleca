@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Turtleca
-- 👀 I’m interested in Astronomy and possibly coding models that simulate macro body interactions
-- 🌱 I’m currently learning basics of python
-- 📫 How to reach me (dont)
+<h1>👋 Hi, I’m <b>Turtle.ca</b></h1>
+
+- I’m currently studying <b>Astrophysics</b> in University
+- I’m currently learning basics of python, including making simple programs and physics simulations
+- Please dont try to reach me unless I ask.
 
 <!---
 Turtleca/Turtleca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
