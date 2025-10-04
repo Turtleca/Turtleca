@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m <b>Turtle.ca</b></h1>
 
 - I’m currently studying <b>Astrophysics</b> in University
-- I’m currently learning basics of python, including making simple programs and physics simulations
+- I’m currently learning basics of Java, including making simple programs and physics simulations.
 - Please dont try to reach me unless I ask.
 
 <!---
